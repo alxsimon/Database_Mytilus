@@ -29,10 +29,10 @@ pop,lat,long,sea_code,iso_country,locality_code,locality,dna_extraction,sequenci
 28-Barfleur,49.670616,-1.263,,FR,BARFLR,"Barfleur, France",,beadxpress,,28,27,BAR
 29-Cherbourg,49.63,-1.622,,FR,CHER03,"Cherbourg, France",,beadxpress,,29,29,CHER
 30-Dinard,48.633,-2.05,,FR,DINNAR,"Dinard, France",,beadxpress,,30,30,DIN
-31-Roscoff,48.72,-3.98,,FR,ROSC,"Roscoff, France",,beadxpress,,31,31,Ros
-32-Guillec,48.564,-4.503,,FR,GUIC,"Guillec, France",,ngs,,32,32,Gui
-33-Kerbihan,47.576883,-3.021033,,FR,KERB,"Kerbihan, France",,beadxpress,,33,33,BRET
-34-Pornichet,47.26,-2.34,,FR,PORN,"Pornichet, France",,beadxpress,,34,34,Por
+31-Roscoff,48.72,-3.98,,FR,ROSCOF,"Roscoff, France",,beadxpress,,31,31,Ros
+32-Guillec,48.687003,-4.071535,,FR,GUILLC,"Guillec, France",,ngs,,32,32,Gui
+33-Kerbihan,47.576883,-3.021033,,FR,KERBIH,"Kerbihan, France",,beadxpress,,33,33,BRET
+34-Pornichet,47.26,-2.34,,FR,PORNIC,"Pornichet, France",,beadxpress,,34,34,Por
 35-Gascogne,46.325,-1.312,,FR,GASC,"Gulf of Gascogne, France",,ngs,,35,35,Gol
 36-Biscay,45.95,-1.032,,FR,BISC,"Bay of Biscay, France",,beadxpress,,36,36,BB
 37-Aiguillon,44.65,-1.13,,FR,AIGU,"Aiguillon, France",,beadxpress,,37,37,PA
