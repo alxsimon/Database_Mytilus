@@ -1,4 +1,4 @@
-pop,lat,long,sea_code,iso_country,locality_code,locality,source,collection_date,dna_extraction,sequencing,N,num,old_num,old_name,commentary
+pop,lat,long,sea_code,iso_country,locality_code,locality,source,collection_date,dna_extraction,genotyping,N,num,old_num,old_name,commentary
 1-Californie-NEW,33.609786,-117.92158,PAC,US,NEWPHB,"Newport Harbor, California, US",,,,beadxpress,,1,1,NEW,approximate coordinates
 2-Oregon-Coos,43.366,-124.217,PAC,US,COOS++,"Coos Bay, Oregon, US",,,,beadxpress,,2,2,Coos_Bay,approximate coordinates
 3-Californie-Carlsbad,33.156302,-117.352779,PAC,US,CARLSB,"Carlsbad, California, US",,,,beadxpress,,3,3,mg,approximate coordinates
