@@ -6,7 +6,10 @@ Database of Mytilus sp. data
 * ind:
 * pop:
 * seq:
-* then one marker per column.
+* then one marker per column: 
+	NG = not genotyped in the experiment; 
+	NA = missing data; 
+	format allele1/allele2.
 
 # Mytilus loci
 
