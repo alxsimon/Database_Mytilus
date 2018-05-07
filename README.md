@@ -6,27 +6,27 @@ Database of Mytilus sp. data
 * ind:
 * pop:
 * seq:
-* then one marker per column: 
-	NG = not genotyped in the experiment; 
-	NA = missing data; 
+* then one marker per column:
+	NG = not genotyped in the experiment;
+	NA = missing data;
 	format allele1/allele2.
 
 # Mytilus loci
 
 
-* number: 
-* name: 
+* number:
+* name:
 * alt_name: Multiple alternative names for the marker, separated by "/".
-	Use grep style functions to search. 
-* sequence: 
-* SNP: 
-* contig: 
-* position: 
-* ancestry_info: 
-* func: 
-* subfunc: 
-* gene: 
-* comment: 
+	Use grep style functions to search.
+* sequence:
+* SNP:
+* contig:
+* position:
+* ancestry_info:
+* func:
+* subfunc:
+* gene:
+* comment:
 
 
 # Mytilus populations
@@ -41,7 +41,8 @@ Database of Mytilus sp. data
 * source
 * collection_date
 * dna_extraction
-* genotyping
+* seq: in which sequencing or genotyping experiment the population was present.
+Can be multiple experiments separated by /.
 * N
 * num
 * old_num
