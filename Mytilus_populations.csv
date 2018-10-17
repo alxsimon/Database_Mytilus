@@ -17,7 +17,7 @@ pop,lat,long,sea_code,iso_country,locality_code,locality,source,collection_date,
 16-LgIs-SPM,41.16,-73.17,ATL,US,SPMARI,"Southport Marina, Long Island, USA",NA,NA,NA,beadxpress,NA,16,11,SPM,approximate coordinates
 17-Boston,42.36,-71.05,ATL,US,BOSTON,"Boston, USA",NA,NA,NA,beadxpress,NA,17,17,Bost,approximate coordinates
 18-NovyMost,68.904723,33.026324,BAR,RU,NOVYMO,"Novy Most, Russia",Petr Strelkov,2014,NA,beadxpress,NA,18,18,NOVI,approximate coordinates
-19-Retinkoye,69.114088,33.387851,BAR,RU,RETIKO,"Retinkoye, Russia",Petr Strelkov,2014,NA,beadxpress,NA,19,19,RET,approximate coordinates
+19-Retinskoye,69.114088,33.387851,BAR,RU,RETIKO,"Retinskoye, Russia",Petr Strelkov,2014,NA,beadxpress,NA,19,19,RET,approximate coordinates
 20-Oresund-Helsinborg,56.04,12.694,NA,SE,ORHB,"Helsinborg, Oresund, Sweden",NA,NA,NA,beadxpress,NA,20,20,ORE,approximate coordinates
 21-Oresund-Raa,55.999,12.74,NA,SE,ORRA,"Raa, Oresund, Sweden",NA,NA,NA,beadxpress,NA,21,21,raa,approximate coordinates
 22-Tvarminne,59.841,23.201,NA,FI,TVAR,"Tvarminne, Finland",NA,NA,NA,ngs,NA,22,22,Tva,approximate coordinates
