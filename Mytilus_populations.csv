@@ -57,8 +57,8 @@ pop,lat,long,sea_code,iso_country,locality_code,locality,source,collection_date,
 56-Heraklion,35.338,25.1442,NA,GR,HERAKL,"Heraklion, Greece",NA,NA,NA,ngs,NA,56,56,Her,approximate coordinates
 57-Croatie,44.43,14.979,NA,HR,CROATI,Croatia,NA,NA,NA,beadxpress,NA,57,57,Coa,approximate coordinates
 58-Trabzon,41,39.71,NA,TR,TRBZON,"Trabzon, Turkey",NA,NA,NA,beadxpress,NA,58,58,TRA,approximate coordinates
-59-Croisement,NA,NA,NA,NA,NA,NA,NA,NA,NA,beadxpress,NA,NA,NA,NA,NA
-60-Kerguelen,NA,NA,IND,FR,KERGLN,Kerguelen,NA,NA,NA,beadxpress,NA,NA,NA,NA,NA
+59-Croisement,NA,NA,NA,NA,NA,NA,NA,NA,NA,beadxpress,NA,59,59,NA,NA
+60-Kerguelen,NA,NA,IND,FR,KERGLN,Kerguelen,NA,NA,NA,beadxpress,NA,60,60,NA,NA
 Aber,57.147577,-2.073488,NOR,GB,ABERDN,Aberdeen,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
 AlgARZ,35.85,-0.316,MED,DZ,ARZW,"Arzew, Algeria",NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 AlgEM,36.81,3.244,MED,DZ,EMAR,"El Marsa, Algeria",NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
