@@ -76,8 +76,8 @@ Cha,46.032285,-1.08059,ATL,FR,NA,Charente,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA
 Cher03,49.6455667,-1.6233166667,CHA,FR,CHER03,Cherbourg,Nicolas Bierne,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Cher15,49.6455667,-1.6233166667,CHA,FR,CHER15,Cherbourg,Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Cher16,49.6455667,-1.6233166667,CHA,FR,CHER16,Cherbourg,Julien Normand / CRC Normandie,2016,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
-Croa,45.071553,13.620913,MED,HR,CROATI,Croatie,Bojan Hamer,NA,NucleoMag_tissue,kasp_1/kasp_2,NA,NA,NA,NA,approximate coordinates
-Dieppe,49.9355556,1.0967027778,CHA,FR,DIEPPE,Dieppe,Claire Daguin-Thiebaut,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
+Croa,45.071553,13.620913,MED,HR,CROATI,Croatie,Bojan Hamer,NA,NucleoMag_tissue,kasp_1 / kasp_2,NA,NA,NA,NA,approximate coordinates
+Dieppe,49.9355556,1.0967027778,CHA,FR,DIEPPE,Dieppe,Claire Daguin-Thiebaut,NA,NucleoMag_tissue,kasp_1 / kasp_3bis,NA,NA,NA,NA,NA
 Din,48.639134,-2.049374,CHA,FR,DINNAR,Dinnard,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
 Edi,NA,NA,NOR,GB,EDINBG,Edinbourg,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Ena11,48.64035,-2.07507,CHA,FR,ST-ENO,"Saint-Enogat, Dinard",NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
@@ -94,7 +94,7 @@ GrCa,49.4080333,-1.0363333333,CHA,FR,GRCAMP,Grancamp,Julien Normand / CRC Norman
 Groix,47.647013,-3.459113,ATL,FR,GROIX+,Groix,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
 Ha1,NA,NA,NA,NA,NA,NA,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Ha3,NA,NA,NA,NA,NA,NA,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
-Her,35.338,25.1442,MED,GR,HERAKL,Heraklion,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
+Her,35.338,25.1442,MED,GR,HERAKL,Heraklion,NA,NA,NucleoMag_tissue,kasp_1 / kasp_3bis,NA,NA,NA,NA,approximate coordinates
 Holl,53.31,5.424,NOR,NL,WADSEA,"Wadden Sea, Netherlands",NA,NA,NucleoMag_tissue,kasp_1/kasp_2,NA,NA,NA,NA,NA
 Locq,48.7369139,-3.5971972222,CHA,FR,LOCQUE,Locquemeau,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 LRM,NA,NA,ATL,FR,NA,Charente,NA,NA,NucleoMag_tissue,kasp_1/kasp_2,NA,NA,NA,NA,NA
@@ -212,12 +212,12 @@ MP,43.32606,-8.80175,ATL,ES,NA,"Malpica, Galicia, Spain",Angel P. Diz,NA,NucleoM
 NUS,64.1968,-51.7104,NA,GL,NUUK++,"Nuuk, Greenland",Einar Eg Nielsen (Mathiesen et al. 2016),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 ORT,43.72246,-7.80508,ATL,ES,ORTIGU,"Ortigueira, Galicia, Spain",Henrique Queiroga,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Ostende,51.23815,2.91815,NOR,BE,OSTEND,"Ostende, Belgique",Filip Volckaert,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-OST,41.263278,-72.384194,ATL,US,OSAYTW,"Old Saybrook town, Hartland drive",Thesis Célia,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+OST,41.263278,-72.384194,ATL,US,OSAYTW,"Old Saybrook town, Hartland drive",Thesis Célia,NA,NucleoMag_tissue,kasp_2 / kasp_3bis,NA,NA,NA,NA,NA
 OT,43.715354,-7.812319,ATL,ES,NA,"Espasante-Ortigueira, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 PC,50.040025,-5.650185,NA,GB,NA,"Porthcurno, SW England, UK",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 PD,50.548028,-4.982802,NA,GB,NA,"Padstow, SW England, UK",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 Pech,69.235,58.941667,BAR,RU,NA,"Pechora Sea, Russia",Petr Strelkov,2013,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-PEN_,39.36844,-9.37944,ATL,PT,PENICH,"Peniche, Portugal",Henrique Queiroga,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+PEN_,39.36844,-9.37944,ATL,PT,PENICH,"Peniche, Portugal",Henrique Queiroga,NA,NucleoMag_tissue,kasp_2 / kasp_3bis,NA,NA,NA,NA,NA
 PEN-,NA,NA,NA,NA,NA,NA,Toxem,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 PIR,NA,NA,NA,NA,NA,NA,Toxem,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Pir,49.165883,-1.600833,CHA,FR,PIROU+,Pirou,Julien Normand / CRC Normandie,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
@@ -279,7 +279,7 @@ BIL6,43.33165,-3.013022,NA,NA,NA,"Getxo, Bilbao harbor",Ibon Cancio,20/07/17,Nuc
 BIL7,43.341866,-3.027535,NA,NA,NA,"Getxo, Bilbao harbor",Ibon Cancio,20/07/17,NucleoMag,kasp_3,NA,NA,NA,NA,"Anomals were collected at the end of the pier, right next to the brand new cruiser terminal In front of the amin opoerations of the Bilbao superharbour."
 Bizerte,37.26,9.86,NA,NA,NA,NA,Tahani El Ayari,NA,NucleoMag,kasp_3,NA,NA,NA,NA,approximate coordinates
 BLYT,55.1258,-1.4983,NA,NA,NA,Blythe,Joop Coolen,14/11/14,NA,kasp_3,NA,NA,NA,NA,Harbour / Depth 0m
-Bodo,NA,NA,NA,NA,NA,"Bodø, Norway",Galice Hoarau,16/11/16,NucleoMag,kasp_3,NA,NA,NA,NA,"Bodø, Nordland, Norway"
+Bodo,NA,NA,NA,NA,NA,"Bodø, Norway",Galice Hoarau,16/11/16,NucleoMag,kasp_3 / kasp_3bis,NA,NA,NA,NA,"Bodø, Nordland, Norway"
 BREST,NA,NA,NA,NA,NA,Brest,Erika Burioli,NA,NucleoMag,kasp_3,NA,NA,NA,NA,NA
 Brest-1,48.31668614,-4.28627923,NA,NA,NA,Lagonna Daoulas,"Alexis, Alison",08/07/17,NucleoMag,kasp_3,NA,NA,NA,NA,moules éparses sur un muret à la sortie d'un étang après un barrage
 Brest-10,48.275207,-4.587984,NA,NA,NA,Quai de pêche Camaret,"Alexis, Alison",09/07/17,NucleoMag,kasp_3,NA,NA,NA,NA,"moules dans des résurgences d'eau/interstices de roche, très peu, taille moyenne"
@@ -449,9 +449,9 @@ SCHV,52.0987,4.2582,NA,NA,NA,Scheveningen,Joop Coolen,08/07/14,NA,kasp_3,NA,NA,N
 Sel-Fiol,NA,NA,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,NA
 SL,NA,NA,NA,NA,NA,NA,Petr Strelkov,NA,NucleoMag,kasp_3,NA,NA,NA,NA,NA
 STBRI,48.543,-2.7122,NA,NA,NA,St Brieuc,Erika Burioli,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
-StLau-TD,48.134413,-69.696141,NA,NA,NA,"Saint Lawrence, Tadoussac, Canada",NA,NA,NA,kasp_3,NA,NA,NA,NA,Approximate coordinates
-StMalo,48.648546,-2.021647,NA,NA,NA,Saint-Malo Port,Alexis,16/07/17,NucleoMag,kasp_3,NA,NA,NA,NA,"Port de plaisance Vauban (bassin séparé de la mer par une écluse), prises du ponton, taille moyenne"
-Tatihou,49.586734,-1.236274,NA,NA,NA,Tatihou,Frédérik Chevalier (MNHN),09/07/05,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
+StLau-TD,48.134413,-69.696141,NA,NA,NA,"Saint Lawrence, Tadoussac, Canada",NA,NA,NA,kasp_3 / kasp_3bis,NA,NA,NA,NA,Approximate coordinates
+StMalo,48.648546,-2.021647,NA,NA,NA,Saint-Malo Port,Alexis,16/07/17,NucleoMag,kasp_3 / kasp_3bis,NA,NA,NA,NA,"Port de plaisance Vauban (bassin séparé de la mer par une écluse), prises du ponton, taille moyenne"
+Tatihou,49.586734,-1.236274,NA,NA,NA,Tatihou,Frédérik Chevalier (MNHN),09/07/05,NucleoMag,kasp_3 / kasp_3bis,NA,NA,NA,NA,Approximate coordinates
 Te-Fiol,NA,NA,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,NA
 TRI_001,47.584917,-3.0248,NA,NA,NA,La Trinité sur mer - Port,JF Bouget,09/01/17,NucleoMag,kasp_3,NA,NA,NA,NA,"PORT DE LA TRINITE . Prélèvement ""100 familles""  fait en sortie du port de La Trinité port « propre » soumis  au jeux des marées malgrè la présence de nombreux voiliers  qu’il ne faut pas occulter. Prélèvement JF Bouget le 9/01/2017"
 VEY_001,49.383208,-1.094829,NA,NA,NA,Port en Besin /  Baie des Vey,Normand,02/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,moules de tailles normales couvertes de balannes  équipe port en Bessin
@@ -459,30 +459,23 @@ Wim_Abdellah,50.786667,1.601944,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,Ap
 WIM_001,50.786667,1.601944,NA,NA,NA,Wimereux  Boulogne sur mer,strobert,01/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,"Observation de nombreuses coquilles vides sur le site  et d'une odeur de moule morte, réesrve sur l'origine des mortalité, Demande de mettre ces moules sous surveillance à JBL pour ne pas contaminer les autres. Les moules mortes semble prioritairement ateindre les moules plus âgées on observe un captage de naissain 2016 très important sur le site.  Le gisement de moules est régulièrement exploité pour la pêche à pieds mais peut être aussi pour la pêche pro à pied. Le gisement s'étend du bord à un coefficient de 80 tout du long sans intéruption."
 YEU_001,46.70645,-2.284001,NA,NA,NA,Ile d'Yeux,James/Marionaux,24 au 28 oct 2016,NucleoMag,kasp_3,NA,NA,NA,NA,"Prélèvements réalisés par Marionnaux (mytiliculteur)  Prélèvement 2 moules provenant de moules captées sur cordes provenant du pertuis Breton et élevées sur descentes de filières sur la concession Filières de l'île d'Yeux,"
 YEU_002,46.70645,-2.284001,NA,NA,NA,Ile d'Yeux,James/Marionaux,25 au 28 oct 2016,NucleoMag,kasp_3,NA,NA,NA,NA,"Prélèvements réalisés par Marionnaux (mytiliculteur)  Prélèvement 1 moules provenant de bouées d'élevage donc CAPTAGE NATUREL LOCAL ile d'YEUX, mélange génétique Gallo Edulis,"
-Bodo,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-CBD,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Chausey,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Dieppe,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-EB-cultNeo,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Her,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+CBD,NA,NA,NA,NA,NA,St lawrence CBD,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+Chausey,NA,NA,NA,NA,NA,"Archipel de Chausey, Normandie",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+EB-cultNeo,NA,NA,NA,NA,NA,Cancer cell culture,Erika Burioli,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 LaRochA,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 LaRochB,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-LE,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-mbitter,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-OST,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Palice-A,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Palice-B,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Peniche,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-PtArm97,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Roscanv,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-StLau-TD,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-StMalo,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-StNaz-III,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-StNaz-II,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-StNaz-IV,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-StNaz-I,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-StNaz-V,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Tatihou,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+LE,NA,NA,NA,NA,NA,"Loch Etive, Scotland",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+mbitter,NA,NA,NA,NA,NA,NA,Mark Bitter,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+Palice-A,NA,NA,NA,NA,NA,"La Palice, port",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+Palice-B,NA,NA,NA,NA,NA,"La Palice, port",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+PtArm97,NA,NA,NA,NA,NA,Pointe de l'Armorique,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+Roscanv,NA,NA,NA,NA,NA,"Roscanvel, Bretagne",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+StNaz-III,47.27312,-2.20259,NA,NA,NA,Saint-Nazaire,Rossana Sussarellu,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+StNaz-II,47.27391,-2.20027,NA,NA,NA,Saint-Nazaire,Rossana Sussarellu,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+StNaz-IV,47.28964,-2.19813,NA,NA,NA,Saint-Nazaire,Rossana Sussarellu,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+StNaz-I,47.27074,-2.19894,NA,NA,NA,Saint-Nazaire,Rossana Sussarellu,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+StNaz-V,47.27941,-2.1988,NA,NA,NA,Saint-Nazaire,Rossana Sussarellu,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 Thau18-B,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 Thau18-P,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 Thau18-S,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+CrimeaC,44.530556,33.455556,NA,NA,NA,"Sevastopol, Crimean Peninsula",Petr Strelkov (colleagues of),22/09/18,NA,NA,NA,NA,NA,NA,"Crimean Peninsular, Sevastopol nudist beach"
