@@ -1,13 +1,13 @@
 pop,lat,long,sea_code,iso_country,locality_code,locality,source,collection_date,dna_extraction,seq,N,num,old_num,old_name,commentary
-1-Californie-NEW,33.609786,-117.92158,PAC,US,NEWPHB,"Newport Harbor, California, US",NA,NA,NA,beadxpress,NA,1,1,NEW,approximate coordinates
-2-Oregon-Coos,43.366,-124.217,PAC,US,COOS++,"Coos Bay, Oregon, US",NA,NA,NA,beadxpress,NA,2,2,Coos_Bay,approximate coordinates
-3-Californie-Carlsbad,33.156302,-117.352779,PAC,US,CARLSB,"Carlsbad, California, US",NA,NA,NA,beadxpress,NA,3,3,mg,approximate coordinates
-4-SantaBarbara,34.42,-119.698,PAC,US,SANBAR,"Santa Barbara, California, US",NA,NA,NA,beadxpress,NA,4,4,SAB,approximate coordinates
-5-Californie-TBR,37.872228,-122.451734,PAC,US,TIBURP,"Tiburon Point, SF, California, US",NA,NA,NA,beadxpress,NA,5,5,TBR,approximate coordinates
-6-Californie-BRK,37.859163,-122.308652,PAC,US,BKLMAR,"Berkeley Marina, SF, California, US",NA,NA,NA,beadxpress,NA,6,6,BRK,approximate coordinates
-7-Californie-LAM,37.802713,-122.257995,PAC,US,MERRIT,"Lake Merritt, SF, California, US",NA,NA,NA,beadxpress,NA,7,7,LAM,approximate coordinates
-8-StLaurent-CBD,48.269414,-69.466146,ATL,CA,BONDES,"Cap de Bon Désir, Québec, Canada",NA,NA,NA,ngs,NA,8,8,CBD,approximate coordinates
-9-StLaurent-TAD,48.134413,-69.696141,ATL,CA,TADSAC,"Tadoussac, Québec, Canada",NA,NA,NA,beadxpress,NA,9,9,tad,approximate coordinates
+01-Californie-NEW,33.609786,-117.92158,PAC,US,NEWPHB,"Newport Harbor, California, US",NA,NA,NA,beadxpress,NA,1,1,NEW,approximate coordinates
+02-Oregon-Coos,43.366,-124.217,PAC,US,COOS++,"Coos Bay, Oregon, US",NA,NA,NA,beadxpress,NA,2,2,Coos_Bay,approximate coordinates
+03-Californie-Carlsbad,33.156302,-117.352779,PAC,US,CARLSB,"Carlsbad, California, US",NA,NA,NA,beadxpress,NA,3,3,mg,approximate coordinates
+04-SantaBarbara,34.42,-119.698,PAC,US,SANBAR,"Santa Barbara, California, US",NA,NA,NA,beadxpress,NA,4,4,SAB,approximate coordinates
+05-Californie-TBR,37.872228,-122.451734,PAC,US,TIBURP,"Tiburon Point, SF, California, US",NA,NA,NA,beadxpress,NA,5,5,TBR,approximate coordinates
+06-Californie-BRK,37.859163,-122.308652,PAC,US,BKLMAR,"Berkeley Marina, SF, California, US",NA,NA,NA,beadxpress,NA,6,6,BRK,approximate coordinates
+07-Californie-LAM,37.802713,-122.257995,PAC,US,MERRIT,"Lake Merritt, SF, California, US",NA,NA,NA,beadxpress,NA,7,7,LAM,approximate coordinates
+08-StLaurent-CBD,48.269414,-69.466146,ATL,CA,BONDES,"Cap de Bon Désir, Québec, Canada",NA,NA,NA,ngs,NA,8,8,CBD,approximate coordinates
+09-StLaurent-TAD,48.134413,-69.696141,ATL,CA,TADSAC,"Tadoussac, Québec, Canada",NA,NA,NA,beadxpress,NA,9,9,tad,approximate coordinates
 10-LgIs-SHM,41.383,-71.64,ATL,US,NA,"Snug Harbor Marina, Charlestown, Long Island, USA",NA,NA,NA,beadxpress,NA,10,16,shm,approximate coordinates
 11-LgIs-QNT,41.339,-71.71,ATL,US,NA,"Quonochontaug, Long Island, USA",NA,NA,NA,ngs,NA,11,15,QNT,approximate coordinates
 12-LgIs-BYY,40.72,-73.24,ATL,US,NA,"Brewer Yacht Yard, Mystic River, Long Island, USA",NA,NA,NA,beadxpress,NA,12,10,BYY,approximate coordinates
