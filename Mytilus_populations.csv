@@ -177,7 +177,7 @@ Jer,49.173083,-2.020383,CHA,JE,JERSEY,Jersey,Julien Normand / CRC Normandie,2016
 JUM,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 KER,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 KO,55.498497,9.626625,NOR,DK,KOLDIN,Kolding,Lasse Fast Jensen,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-LE,56.455428,-5.308771,INN,GB,NA,"Loch Etive, Scotland",Petr Strelkov,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+LE,56.455428,-5.308771,INN,GB,NA,"Loch Etive, Scotland",Petr Strelkov,NA,NucleoMag_tissue,kasp_2 / kasp_3bis,NA,NA,NA,NA,NA
 LochEti,56.457348,-5.18317,NA,GB,LOCETI,"Loch Etive, Scotland",NA,NA,NucleoMag_tissue,kasp_2 / kasp_3,NA,NA,NA,NA,approximate coordinates
 LOF,68.338,13.878,NA,NO,LOFTEN,"Lofoten, Norway",Einar Eg Nielsen (Mathiesen et al. 2016),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 LUN,44.372805,-64.31061,NA,CA,NA,"Lunenburg, Canada",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
@@ -391,8 +391,8 @@ L7,48.587646,-4.502225,NA,NA,NA,Aber Wrac'h,Ismaël Bernard (Eureka),24/04/17,Nu
 L8,48.5502226263058,-2.64740467071533,NA,NA,NA,Saint-Brieuc,Ismaël Bernard (Eureka),24/04/17,NucleoMag,kasp_3,NA,NA,NA,NA,origin: Noirmoutier/ type: Elevage/ note: / method: Bouchot/ age: 7 mois
 L9,48.7457,-3.590067,NA,NA,NA,Lannion,Ismaël Bernard (Eureka),17/05/17,NucleoMag,kasp_3,NA,NA,NA,NA,origin: Penestin/ type: Reference/ note: Sélection pour retrouver des moribondes/ method: Filière/ age: 7 mois
 LAN-VIV,48.7457,-3.590067,NA,NA,NA,Lannion,Erika Burioli,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
-LaRochA,46.14988,-1.22359,NA,NA,NA,La Rochelle P12,Ismaël Bernard (Eureka),24/06/17,NucleoMag,kasp_3,NA,NA,NA,NA,"Chef de Baie, ponton 12, La Rochelle / not in good shape, poor in tissue, filled with crabs"
-LaRochB,46.15045,-1.22449,NA,NA,NA,La Rochelle P13,Ismaël Bernard (Eureka),25/06/17,NucleoMag,kasp_3,NA,NA,NA,NA,"Chef de Baie, ponton 13, La Rochelle/ not in good shape, poor in tissue, filled with crabs"
+LaRochA,46.14988,-1.22359,NA,NA,NA,La Rochelle P12,Ismaël Bernard (Eureka),24/06/17,NucleoMag,kasp_3 / kasp_3bis,NA,NA,NA,NA,"Chef de Baie, ponton 12, La Rochelle / not in good shape, poor in tissue, filled with crabs"
+LaRochB,46.15045,-1.22449,NA,NA,NA,La Rochelle P13,Ismaël Bernard (Eureka),25/06/17,NucleoMag,kasp_3 / kasp_3bis,NA,NA,NA,NA,"Chef de Baie, ponton 13, La Rochelle/ not in good shape, poor in tissue, filled with crabs"
 LeHaCM,49.457252,0.113797,NA,NA,NA,Le Havre côté estuaire,"Toxem, Jérôme Couteau",NA,NucleoMag,kasp_3,NA,NA,NA,NA,"Digue Sud côté estuaire, Le Havre / approximate coordinates"
 LeHaP1,49.464664,0.105794,NA,NA,NA,Le Havre P1,"Toxem, Jérôme Couteau",NA,NucleoMag,kasp_3,NA,NA,NA,NA,"Bassin Port 2000, Le Havre / approximate coordinates"
 LeHaP10,49.453519,0.173317,NA,NA,NA,Le Havre P10,"Toxem, Jérôme Couteau",NA,NucleoMag,kasp_3,NA,NA,NA,NA,"Bassin Port 2000, Le Havre / approximate coordinates"
@@ -462,9 +462,6 @@ YEU_002,46.70645,-2.284001,NA,NA,NA,Ile d'Yeux,James/Marionaux / MORBLEU,25 au 2
 CBD,NA,NA,NA,NA,NA,St lawrence CBD,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 Chausey,NA,NA,NA,NA,NA,"Archipel de Chausey, Normandie",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 EB-cultNeo,NA,NA,NA,NA,NA,Cancer cell culture,Erika Burioli,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-LaRochA,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-LaRochB,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-LE,NA,NA,NA,NA,NA,"Loch Etive, Scotland",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 mbitter,NA,NA,NA,NA,NA,NA,Mark Bitter,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 Palice-A,NA,NA,NA,NA,NA,"La Palice, port",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 Palice-B,NA,NA,NA,NA,NA,"La Palice, port",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
