@@ -95,9 +95,9 @@ Groix,47.647013,-3.459113,ATL,FR,GROIX+,Groix,NA,NA,NucleoMag_tissue,kasp_1,NA,N
 Ha1,NA,NA,NA,NA,NA,NA,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Ha3,NA,NA,NA,NA,NA,NA,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Her,35.338,25.1442,MED,GR,HERAKL,Heraklion,NA,NA,NucleoMag_tissue,kasp_1 / kasp_3bis,NA,NA,NA,NA,approximate coordinates
-Holl,53.31,5.424,NOR,NL,WADSEA,"Wadden Sea, Netherlands",NA,NA,NucleoMag_tissue,kasp_1/kasp_2,NA,NA,NA,NA,NA
+Holl,53.31,5.424,NOR,NL,WADSEA,"Wadden Sea, Netherlands",NA,NA,NucleoMag_tissue,kasp_1 / kasp_2,NA,NA,NA,NA,NA
 Locq,48.7369139,-3.5971972222,CHA,FR,LOCQUE,Locquemeau,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
-LRM,NA,NA,ATL,FR,NA,Charente,NA,NA,NucleoMag_tissue,kasp_1/kasp_2,NA,NA,NA,NA,NA
+LRM,NA,NA,ATL,FR,NA,Charente,NA,NA,NucleoMag_tissue,kasp_1 / kasp_2,NA,NA,NA,NA,NA
 LRS,NA,NA,ATL,FR,NA,Charente,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 MdJ,38.735794,135.09238,PAC,NA,JAPANS,Japan Sea,Petr Strelkov,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
 Ouis,49.3382889,-0.4589166667,CHA,FR,OUISTR,Ouistreham,Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
@@ -122,7 +122,7 @@ Be,60.380691,5.334084,NWG,NO,NA,"Bergen, under the Bridge",Petr Strelkov,2015,Nu
 BER,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 BES,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 BFH,41.260556,-72.462528,ATL,US,BRANHB,"Brandford, Harbor",Thesis Célia,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-BO,67.231864,14.614901,NWG,NO,NA,"Bodo, Saltstraumen",Petr Strelkov,2014,NucleoMag_tissue,kasp_2/kasp_3,NA,NA,NA,NA,NA
+BO,67.231864,14.614901,NWG,NO,NA,"Bodo, Saltstraumen",Petr Strelkov,2014,NucleoMag_tissue,kasp_2 / kasp_3,NA,NA,NA,NA,NA
 Bost,42.36,-71.05,ATL,US,BOSTON,Boston,NA,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 BretN_g1,48.700138,-3.71707,CHA,FR,NA,"venizella, près de Beg an Fry, Guimaec",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 BretN_g2,48.689997,-3.698187,CHA,FR,NA,"poul roudou, locquirec",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
@@ -156,7 +156,7 @@ FAR,37.01568,-7.93884,ATL,PT,NA,"Faro, Portugal",Henrique Queiroga,NA,NucleoMag_
 FRE,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 FR,57.458789,10.541081,NOR,DK,FREDER,Frederikshaun,Lasse Fast Jensen,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 FZ,43.640907,-7.342928,NA,ES,NA,"Areoura-Foz, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
-GA,62.46399,6.24164,NWG,NO,NA,"Gaseid, Alesund",Petr Strelkov,2015,NucleoMag_tissue,kasp_2/kasp_3,NA,NA,NA,NA,NA
+GA,62.46399,6.24164,NWG,NO,NA,"Gaseid, Alesund",Petr Strelkov,2015,NucleoMag_tissue,kasp_2 / kasp_3,NA,NA,NA,NA,NA
 Havre_A,49.48586,0.11327,CHA,FR,HAVREA,Le Havre,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Havre_B,49.47316,0.11612,CHA,FR,HAVREB,Le Havre,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Havre_C,49.47,0.12268,CHA,FR,HAVREC,Le Havre,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
@@ -178,11 +178,11 @@ JUM,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,N
 KER,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 KO,55.498497,9.626625,NOR,DK,KOLDIN,Kolding,Lasse Fast Jensen,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 LE,56.455428,-5.308771,INN,GB,NA,"Loch Etive, Scotland",Petr Strelkov,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-LochEti,56.457348,-5.18317,NA,GB,LOCETI,"Loch Etive, Scotland",NA,NA,NucleoMag_tissue,kasp_2/kasp_3,NA,NA,NA,NA,approximate coordinates
+LochEti,56.457348,-5.18317,NA,GB,LOCETI,"Loch Etive, Scotland",NA,NA,NucleoMag_tissue,kasp_2 / kasp_3,NA,NA,NA,NA,approximate coordinates
 LOF,68.338,13.878,NA,NO,LOFTEN,"Lofoten, Norway",Einar Eg Nielsen (Mathiesen et al. 2016),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 LUN,44.372805,-64.31061,NA,CA,NA,"Lunenburg, Canada",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 LX,43.225475,-9.00258,ATL,ES,NA,"Laxe, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
-M,69.318729,34.349731,BAR,RU,NA,"Mogilnoe Lake, Kildin Isl., Barents Sea",Petr Strelkov,2015,NucleoMag_tissue,kasp_2/kasp_3,NA,NA,NA,NA,NA
+M,69.318729,34.349731,BAR,RU,NA,"Mogilnoe Lake, Kildin Isl., Barents Sea",Petr Strelkov,2015,NucleoMag_tissue,kasp_2 / kasp_3,NA,NA,NA,NA,NA
 MA,55.308394,8.647261,NOR,DK,MANDO,Mandø,Lasse Fast Jensen,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 MB10,45.853482,-1.181018,ATL,FR,NA,"Pertuis Antioche, Pont ile Oleron, pile de pont",Jean-Francois Pepin / MORBLEU,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 MB11,45.958675,-1.222794,ATL,FR,NA,"Pertuis Antioche, secteur Boyard parc bouchot",Jean-Francois Pepin / MORBLEU,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
@@ -221,7 +221,7 @@ PEN_,39.36844,-9.37944,ATL,PT,PENICH,"Peniche, Portugal",Henrique Queiroga,NA,Nu
 PEN-,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 PIR,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Pir,49.165883,-1.600833,CHA,FR,PIROU+,Pirou,Julien Normand / CRC Normandie,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-PL,56.453742,-5.311939,INN,GB,NA,"Loch Etive, Scotland",Petr Strelkov,NA,NucleoMag_tissue,kasp_2/kasp_3,NA,NA,NA,NA,NA
+PL,56.453742,-5.311939,INN,GB,NA,"Loch Etive, Scotland",Petr Strelkov,NA,NucleoMag_tissue,kasp_2 / kasp_3,NA,NA,NA,NA,NA
 QAS,77.465,-69.2403,NA,GL,QAANAA,"Qaanaaq, Greenland",Einar Eg Nielsen (Mathiesen et al. 2016),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 RadeBrest_R1,48.390145,-4.399726,ATL,FR,P-IROI,Pont d'Iroise,Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 RadeBrest_R2,48.338097,-4.36882,ATL,FR,TINDUF,Port du Tinduff,Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
@@ -231,7 +231,7 @@ RadeBrest_R5,48.281993,-4.571943,ATL,FR,ST-BAR,"Pte Ste Barbe, Camaret",Ismaël 
 RB,43.554739,-7.157555,NA,ES,NA,"Catedrales-Ribadeo, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 ROS,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 RS,42.548425,-8.878226,NA,ES,NA,"Arosa, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
-S,69.318271,34.345847,BAR,RU,NA,"Kildin Island, Barents Sea",Petr Strelkov,2015,NucleoMag_tissue,kasp_2/kasp_3,NA,NA,NA,NA,NA
+S,69.318271,34.345847,BAR,RU,NA,"Kildin Island, Barents Sea",Petr Strelkov,2015,NucleoMag_tissue,kasp_2 / kasp_3,NA,NA,NA,NA,NA
 SB1,48.555676,-2.716138,CHA,FR,PTROSE,Pointe du Roselier,NA,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 SB2,48.584578,-2.78885,CHA,FR,PORDIC,"Pordic, plage du petit havre",NA,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 SEA,47.673085,-122.429619,NA,US,NA,"Seattle, USA",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
