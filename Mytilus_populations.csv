@@ -99,7 +99,6 @@ Holl,53.31,5.424,NOR,NL,WADSEA,"Wadden Sea, Netherlands",NA,NA,NucleoMag_tissue,
 Locq,48.7369139,-3.5971972222,CHA,FR,LOCQUE,Locquemeau,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 LRM,NA,NA,ATL,FR,NA,Charente,NA,NA,NucleoMag_tissue,kasp_1 / kasp_2,NA,NA,NA,NA,NA
 LRS,NA,NA,ATL,FR,NA,Charente,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
-MdJ,38.735794,135.09238,PAC,NA,JAPANS,Japan Sea,Petr Strelkov,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
 Ouis,49.3382889,-0.4589166667,CHA,FR,OUISTR,Ouistreham,Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Prim,48.7212222,-3.8207972222,CHA,FR,PRIMEL,Primel,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Rave,49.4733333,-1.2102333333,CHA,FR,RAVENO,Ravenoville,Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
@@ -177,8 +176,8 @@ Jer,49.173083,-2.020383,CHA,JE,JERSEY,Jersey,Julien Normand / CRC Normandie,2016
 JUM,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 KER,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 KO,55.498497,9.626625,NOR,DK,KOLDIN,Kolding,Lasse Fast Jensen,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-LE,56.455428,-5.308771,INN,GB,NA,"Loch Etive, Scotland",Petr Strelkov,NA,NucleoMag_tissue,kasp_2 / kasp_3bis,NA,NA,NA,NA,NA
-LochEti,56.457348,-5.18317,NA,GB,LOCETI,"Loch Etive, Scotland",NA,NA,NucleoMag_tissue,kasp_2 / kasp_3,NA,NA,NA,NA,approximate coordinates
+LE,56.455428,-5.308771,INN,GB,NA,"Loch Etive, Scotland",Petr Strelkov,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+LochEti,56.457348,-5.18317,NA,GB,LOCETI,"Loch Etive, Scotland",NA,NA,NucleoMag_tissue,kasp_2 / kasp_3 / kasp_3bis,NA,NA,NA,NA,approximate coordinates
 LOF,68.338,13.878,NA,NO,LOFTEN,"Lofoten, Norway",Einar Eg Nielsen (Mathiesen et al. 2016),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 LUN,44.372805,-64.31061,NA,CA,NA,"Lunenburg, Canada",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 LX,43.225475,-9.00258,ATL,ES,NA,"Laxe, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
@@ -362,7 +361,7 @@ Havre-J,49.488933,0.118317,NA,NA,NA,Havre_Barre,"Alexis, Association Port Vivant
 HORN,55.4789,7.811,NA,NA,NA,Horns Rev,Joop Coolen,10/06/15,NA,kasp_3,NA,NA,NA,NA,Wind farm / Depth 0m
 HOS_001,43.655537,-1.439209,NA,NA,NA,canal d'HOSSEGOR,Strobert / MORBLEU,15/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,Gisement de moule sortie de l'étang d'Hossegor  prélèvement Moules 100 familles Morbleu 2017. Prélèvement le 14 décembre 2016. trés grosse moules zone où la prospection de moules est normalement interdite.
 HOU_001,47.419667,-2.937233,NA,NA,NA,Ile de Houat -bouée cardinal filière,JF Bouget/strobert / MORBLEU,10/01/17,NucleoMag,kasp_3,NA,NA,NA,NA,Bouée HOUAT  en baie de Quiberon.  Prélèvement sur une bouée cardinal de la zone mytilicole d’élevage sur filière de l’île de Houat en baie de Quiberon. Récupération des moules sous la bouée en plongée (JF Bouget). Les moules sont des moules capté en 2016 il n’y a pas de veielle moules sur cette bouée. Observation de coquille cassé (broyées) on peut soupsonner une prédation par des daurades sur ce type de site.. La taille des moules devraient être beaucoup plus grande. Maintenant les bouées peuvent avoir également été nettoyées par les Phares et Balises ou les professionnels eux même. Prélèvements Bouget Strobert le 10/01/2017.
-JapSea,38.735794,135.09238,NA,NA,NA,Katolikova Japan Sea,Petr Strelkov,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
+JapSea,38.735794,135.09238,NA,NA,NA,Katolikova Japan Sea,Petr Strelkov,NA,NucleoMag,kasp1 / kasp_3,NA,NA,NA,NA,Approximate coordinates
 JH,NA,NA,NA,NA,NA,NA,Jerry Hilbish,NA,NA,kasp_3,NA,NA,NA,NA,NA
 JOS_001,48.558056,-2.600278,NA,NA,NA,Baie de St Brieuc /  Jospinet,strobert / MORBLEU,30/11/16,NucleoMag,kasp_3,NA,NA,NA,NA,les moules se trouvent sur les rochers  en bordure d'estran à un coeficient de 40-50. Les moules se trouvent au dessus de la zone de captage d'huîtes. Observation d'un capatge de moules 2016 (nouvelain) très important sur le site.
 JOS_002,48.558056,-2.600278,NA,NA,NA,Baie de St Brieuc /  Jospinet,strobert / MORBLEU,30/11/16,NucleoMag,kasp_3,NA,NA,NA,NA,les moules se trouvent sur les rochers  en bordure d'estran à un coeficient de 40-50. Les moules se trouvent au dessus de la zone de captage d'huîtes. Observation d'un capatge de moules 2016 (nouvelain) très important sur le site.
@@ -459,7 +458,7 @@ Wim_Abdellah,50.786667,1.601944,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,Ap
 WIM_001,50.786667,1.601944,NA,NA,NA,Wimereux  Boulogne sur mer,strobert / MORBLEU,01/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,"Observation de nombreuses coquilles vides sur le site  et d'une odeur de moule morte, réesrve sur l'origine des mortalité, Demande de mettre ces moules sous surveillance à JBL pour ne pas contaminer les autres. Les moules mortes semble prioritairement ateindre les moules plus âgées on observe un captage de naissain 2016 très important sur le site.  Le gisement de moules est régulièrement exploité pour la pêche à pieds mais peut être aussi pour la pêche pro à pied. Le gisement s'étend du bord à un coefficient de 80 tout du long sans intéruption."
 YEU_001,46.70645,-2.284001,NA,NA,NA,Ile d'Yeux,James/Marionaux / MORBLEU,24 au 28 oct 2016,NucleoMag,kasp_3,NA,NA,NA,NA,"Prélèvements réalisés par Marionnaux (mytiliculteur)  Prélèvement 2 moules provenant de moules captées sur cordes provenant du pertuis Breton et élevées sur descentes de filières sur la concession Filières de l'île d'Yeux,"
 YEU_002,46.70645,-2.284001,NA,NA,NA,Ile d'Yeux,James/Marionaux / MORBLEU,25 au 28 oct 2016,NucleoMag,kasp_3,NA,NA,NA,NA,"Prélèvements réalisés par Marionnaux (mytiliculteur)  Prélèvement 1 moules provenant de bouées d'élevage donc CAPTAGE NATUREL LOCAL ile d'YEUX, mélange génétique Gallo Edulis,"
-CBD,NA,NA,NA,NA,NA,St lawrence CBD,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+StLau-CBD,48.269414,-69.466146,ATL,CA,BONDES,"Saint Lawrence, Cap de Bon Désir, Canada",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 Chausey,NA,NA,NA,NA,NA,"Archipel de Chausey, Normandie",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 EB-cultNeo,NA,NA,NA,NA,NA,Cancer cell culture,Erika Burioli,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 mbitter,NA,NA,NA,NA,NA,NA,Mark Bitter,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
