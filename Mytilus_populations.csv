@@ -176,7 +176,7 @@ CER_001,48.38265,-4.448869,NA,NA,NA,Port de Brest,Caisey / MORBLEU,14/12/16,Nucl
 CH,66.26998,33.07037,WHI,RU,NA,"Chupa, White Sea",Petr Strelkov,2015,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Cha,46.032285,-1.08059,ATL,FR,NA,Charente,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
 CHA_OLE,45.050357,-1.41515,NA,NA,NA,Chassiron  pointe Nord Oléron,Robert / MORBLEU,03/10/16,NucleoMag,kasp_3,NA,NA,NA,NA,prélèvement de naissain seulement
-Chausey,NA,NA,NA,NA,NA,"Archipel de Chausey, Normandie",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+Chausey,48.884236,-1.806773,NA,NA,NA,"Chausey archipelago, Normandie",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,"approximate coordinates, may be cultivated mussels"
 CHE,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 CHE_001,49.645741,-1.623364,NA,NA,NA,port de Cherbourg,Julien Normand,02/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,très grosses moules port de plaisance de  Cherbourg équipe port en Bessin
 Cher-A,49.6453,-1.61953,NA,NA,NA,Cherbourg A,"Alexis, Nico et Alison",01/08/17,NucleoMag,kasp_3,NA,NA,NA,NA,Ponton limite W Port Chantereyne.
@@ -223,8 +223,8 @@ F2,NA,NA,NA,CROSS,F2,F2,Nicolas Bierne,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 F2A,NA,NA,NA,CROSS,F2A,F2,Nicolas Bierne,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Far,37.01568,-7.93884,ATL,PT,NA,Faro,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
 FAR,37.01568,-7.93884,ATL,PT,NA,"Faro, Portugal",Henrique Queiroga,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-Fer11,NA,NA,CHA,FR,FERY11,ballast ferry,Frédérique Viard,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
-Fer13,NA,NA,CHA,FR,FERY12,ballast ferry,Frédérique Viard,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
+Fer11,48.720449,-3.963087,CHA,FR,FERY11,ballast ferry,Frédérique Viard / SMO Roscoff,2011,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
+Fer13,48.720449,-3.963087,CHA,FR,FERY13,ballast ferry Armorique,Frédérique Viard / SMO Roscoff,16/05/13,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,Ferry Armorique port Roscoff / tube étambot tribord / dive sampling / approximate coordinates
 FIL,NA,NA,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,NA
 FIM,NA,NA,ATL,FR,NA,Charente,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 FINO,55.195,7.1583,NA,NA,NA,FINO 3,Joop Coolen,23/09/15,NA,kasp_3,NA,NA,NA,NA,Research platform / Depth 4m
@@ -348,7 +348,7 @@ MB6,46.296875,-1.271754,ATL,FR,NA,"Pertuis breton, estuaire du Lay, Le Lay pieux
 MB7,46.270652,-1.178486,ATL,FR,NA,"Pertuis breton, estuaire Sèvre Niortaise, Haut Sèvre, Bouée N°7",Jean-Francois Pepin / MORBLEU,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 MB8,46.159085,-1.241392,ATL,FR,NA,"Pertuis breton, Port  de la Rochelle, Môle escale",Jean-Francois Pepin / MORBLEU,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 MB9,45.782586,-1.279318,ATL,FR,NA,"Large pertuis Maumusson, Bouée Phares balise Maumusson ""atterisage""",Jean-Francois Pepin / MORBLEU,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-mbitter,NA,NA,NA,NA,NA,NA,Mark Bitter,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+mbitter,NA,NA,NA,NA,NA,"Mediterranean Sea, Thau + Point near Villefranche",Mark Bitter,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 Mch,NA,NA,NA,NA,NA,Chile,Michael Metzger,NA,NA,kasp_3,NA,NA,NA,NA,NA
 ME,NA,NA,NA,GB,NA,M. edulis from Swansea,Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 MEC,NA,NA,NA,GB,NA,putative Edulis from Croyde pop,Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
@@ -364,14 +364,14 @@ MT,NA,NA,NA,NA,NA,NA,Michael Metzger,NA,NA,kasp_3,NA,NA,NA,NA,Pacific M. trossul
 MtrossCB,49.378056,-123.278889,NA,NA,NA,"Copper Beach, West Vancouver, British Columbia, Canada",Michael Metzger,NA,NA,kasp_3,NA,NA,NA,NA,Pacific M. trossulus cancer
 Murch,61.4,1.75,NA,NA,NA,Murchinson oil station,NA,NA,NucleoMag,kasp_3,NA,NA,NA,NA,NA
 MW,NA,NA,NA,NA,NA,NA,Michael Metzger,NA,NA,kasp_3,NA,NA,NA,NA,NA
-MyBQ,-52.4108,-69.5462,NA,NA,NA,Buque Quemado,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
+MyBQ,-52.331494,-69.485061,NA,NA,NA,Buque Quemado,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,
 MyFal,-51.785,-59.464,NA,NA,NA,Falklands,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
-MyFR,NA,NA,NA,NA,NA,Paso Fitz Roy,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
-MyIL,-54.6732,-71.967,NA,NA,NA,Isla London,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
-MyMAG,-52.919,-70.577,NA,NA,NA,Isla Magdalena,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
-MyOTW,-53.0585,-71.6364,NA,NA,NA,Seno Otway,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
+MyFR,-52.6895,-71.427722,NA,NA,NA,Paso Fitz Roy,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,
+MyIL,-54.702708,-71.913906,NA,NA,NA,Isla London,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,
+MyMAG,-52.917317,-70.568489,NA,NA,NA,Isla Magdalena,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,
+MyOTW,-53.148056,-71.510278,NA,NA,NA,Seno Otway,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,
 MyPAG,-54.6988,-71.5495,NA,NA,NA,Paso Aguirre,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
-MyPIAE,NA,NA,NA,NA,NA,Fiordo Pia Este,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
+MyPIAE,-54.795969,-69.607408,NA,NA,NA,Fiordo Pia Este,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,
 MySC,-49.138171,-74.42356,NA,NA,NA,Sources Chaudes - Puerto Eden,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
 MySE,-46.824,-74.6576,NA,NA,NA,Seno Escondido,Karin,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
 NE,NA,NA,NA,NA,NA,NA,Petr Strelkov,NA,NucleoMag,kasp_3,NA,NA,NA,NA,NA
@@ -387,8 +387,8 @@ OT,43.715354,-7.812319,ATL,ES,NA,"Espasante-Ortigueira, Galicia, Spain",Angel P.
 Ouis,49.3382889,-0.4589166667,CHA,FR,OUISTR,Ouistreham,Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Pal,46.160381,-1.22275,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,La Palice??
 PAL_001,46.160381,-1.22275,NA,NA,NA,Port de La Pallice,James / MORBLEU,07/11/16,NucleoMag,kasp_3,NA,NA,NA,NA,Prélèvement port de commerce zone de ponton  gendarmerie
-Palice-A,NA,NA,NA,NA,NA,"La Palice, port",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Palice-B,NA,NA,NA,NA,NA,"La Palice, port",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+Palice-A,46.159087,-1.215764,NA,NA,NA,"La Palice, Bassin à flot",Jean-Francois Pepin,23/02/18,NA,kasp_3bis,NA,NA,NA,NA,NA
+Palice-B,46.15854,-1.218429,NA,NA,NA,"La Palice, lock",Jean-Francois Pepin,23/02/18,NA,kasp_3bis,NA,NA,NA,NA,NA
 PC,50.040025,-5.650185,NA,GB,NA,"Porthcurno, SW England, UK",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 PD,50.548028,-4.982802,NA,GB,NA,"Padstow, SW England, UK",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 Pech,69.235,58.941667,BAR,RU,NA,"Pechora Sea, Russia",Petr Strelkov,2013,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
@@ -400,9 +400,9 @@ PIR,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,N
 Pir,49.165883,-1.600833,CHA,FR,PIROU+,Pirou,Julien Normand / CRC Normandie,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 PL,56.453742,-5.311939,INN,GB,NA,"Loch Etive, Scotland",Petr Strelkov,NA,NucleoMag_tissue,kasp_2 / kasp_3,NA,NA,NA,NA,NA
 Plg,NA,NA,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,NA
-POU_001,47.260288,-2.415963,NA,NA,NA,Le Pouliguen - La Baule,JF Bouget/strobert / MORBLEU,12/01/17,NucleoMag,kasp_3,NA,NA,NA,NA,"LE POULIGUEN (environnement de La Baule)  Les moules ont été prélevées (le 12/01/2017) par JF Bouget Strobert et Marie FOUCART Coordinatrice pêche des coquillages COREPEM, 44210 PORNIC (marie.foucart@corepem.fr) qui s’occupe de la pêche à pieds notamment de l’exploitation des gisements de moules du département Loire Atlantique. Le site de prélèvement est un site de gisement exploité par les professionnels (pêches à pieds) qui pêchent toute l’année sur différent gisements dans le 44. Ils ont fait l’observation de mortalité en 2016 sur certain gisement. Mais ils ont également observé dans le temps (2016) un très grand affaiblissement des moules qui n’avaient plus suffisant de puissance de fixation (byssus) pour se maintenir en place et qui ont pu disparaître suite à cet affaiblissement. (Voir constat similaire site de CAMARET – embouchure de Vilaine même série de prélèvement). On observe sur le site du Pouliguen 2 niveaux de répartition dans les tailles de moules. Les moules se répartisses entre un niveau (coef) 50 et un niveau 80-90. En gros entre le nieveau 50 et 60 on observe des moules de plus de 2 ans couvertes de bernacles ce sont les moules qui ont été prélevé dans le cadre de « 100 FAMILLES » au niveau inférieur entre 70 et 90 les moules grosses n’existent plus il n’y a que des petites moules du capage 2016. DES MOULES DE CE NIVEAU ONT ETE PRELEVEES POUR ABDELLAH ELLES SONT DANS UN POCHON SPECIFIQUE point géographique sur une balise de signalisation écarté du premier point de prélèvement (47,261505°N -2,415293°W)"
+POU_001,47.260288,-2.415963,NA,NA,NA,Le Pouliguen - La Baule,JF Bouget/strobert / MORBLEU,12/01/17,NucleoMag_tissue,kasp_3,NA,NA,NA,NA,"LE POULIGUEN (environnement de La Baule)  Les moules ont été prélevées (le 12/01/2017) par JF Bouget Strobert et Marie FOUCART Coordinatrice pêche des coquillages COREPEM, 44210 PORNIC (marie.foucart@corepem.fr) qui s’occupe de la pêche à pieds notamment de l’exploitation des gisements de moules du département Loire Atlantique. Le site de prélèvement est un site de gisement exploité par les professionnels (pêches à pieds) qui pêchent toute l’année sur différent gisements dans le 44. Ils ont fait l’observation de mortalité en 2016 sur certain gisement. Mais ils ont également observé dans le temps (2016) un très grand affaiblissement des moules qui n’avaient plus suffisant de puissance de fixation (byssus) pour se maintenir en place et qui ont pu disparaître suite à cet affaiblissement. (Voir constat similaire site de CAMARET – embouchure de Vilaine même série de prélèvement). On observe sur le site du Pouliguen 2 niveaux de répartition dans les tailles de moules. Les moules se répartisses entre un niveau (coef) 50 et un niveau 80-90. En gros entre le nieveau 50 et 60 on observe des moules de plus de 2 ans couvertes de bernacles ce sont les moules qui ont été prélevé dans le cadre de « 100 FAMILLES » au niveau inférieur entre 70 et 90 les moules grosses n’existent plus il n’y a que des petites moules du capage 2016. DES MOULES DE CE NIVEAU ONT ETE PRELEVEES POUR ABDELLAH ELLES SONT DANS UN POCHON SPECIFIQUE point géographique sur une balise de signalisation écarté du premier point de prélèvement (47,261505°N -2,415293°W)"
 Prim,48.7212222,-3.8207972222,CHA,FR,PRIMEL,Primel,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
-PtArm97,NA,NA,NA,NA,NA,Pointe de l'Armorique,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+PtArm97,48.325627,-4.453547,NA,NA,NA,"Pointe de l'Armorique, plage des ducs d’albes",NA,NA,NucleoMag_tissue,kasp_3bis,NA,NA,NA,NA,approximate coordinates
 Q13A,52.1911,4.1361,NA,NA,NA,Q13-A,Joop Coolen,28/05/14,NA,kasp_3,NA,NA,NA,NA,O&G platform / Depth 0 to 7m
 QAS,77.465,-69.2403,NA,GL,QAANAA,"Qaanaaq, Greenland",Einar Eg Nielsen (Mathiesen et al. 2016),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 QUI_001,47.54575,-3.067167,NA,NA,NA,Baie de Quiberon - bouée,JF Bouget / MORBLEU,08/01/17,NucleoMag,kasp_3,NA,NA,NA,NA,Bouée QUIBERON en baie de Quiberon.  Prélèvement de moule sur une bouée située dans la baie. Récupération des moules à l’aide d’un rateau. Prélèvement JF Bouget le 8/01/2017.
@@ -453,9 +453,9 @@ Te-Fiol,NA,NA,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,NA
 TH,56.372631,8.119411,NOR,DK,THORSM,Thorsminde,Lasse Fast Jensen,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Th16,43.412268,3.691788,CHA,FR,THAU16,Thau,Nicolas Bierne,2016,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 TH16B,43.414744,3.687824,MED,FR,NA,"Thau, ponton station",Nicolas Bierne,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-Thau18-B,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Thau18-P,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Thau18-S,NA,NA,NA,NA,NA,NA,NA,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+Thau18-B,NA,NA,NA,NA,NA,Thau,Guillaume Charrière,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+Thau18-P,NA,NA,NA,NA,NA,Thau,Guillaume Charrière,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+Thau18-S,NA,NA,NA,NA,NA,Thau,Guillaume Charrière,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
 TRI_001,47.584917,-3.0248,NA,NA,NA,La Trinité sur mer - Port,JF Bouget,09/01/17,NucleoMag,kasp_3,NA,NA,NA,NA,"PORT DE LA TRINITE . Prélèvement ""100 familles""  fait en sortie du port de La Trinité port « propre » soumis  au jeux des marées malgrè la présence de nombreux voiliers  qu’il ne faut pas occulter. Prélèvement JF Bouget le 9/01/2017"
 VAR,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 VEY_001,49.383208,-1.094829,NA,NA,NA,Port en Besin /  Baie des Vey,Normand,02/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,moules de tailles normales couvertes de balannes  équipe port en Bessin
