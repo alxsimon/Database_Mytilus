@@ -453,9 +453,9 @@ Te-Fiol,NA,NA,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,NA
 TH,56.372631,8.119411,NOR,DK,THORSM,Thorsminde,Lasse Fast Jensen,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Th16,43.412268,3.691788,CHA,FR,THAU16,Thau,Nicolas Bierne,2016,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 TH16B,43.414744,3.687824,MED,FR,NA,"Thau, ponton station",Nicolas Bierne,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-Thau18-B,NA,NA,NA,NA,NA,Thau,Guillaume Charrière,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Thau18-P,NA,NA,NA,NA,NA,Thau,Guillaume Charrière,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Thau18-S,NA,NA,NA,NA,NA,Thau,Guillaume Charrière,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
+Thau18-B,43.4343,3.664633,NA,NA,NA,"Thau, Bouzigues",Guillaume Charrière,NA,NA,kasp_3bis,NA,NA,NA,NA,"Oyster tables, REPHY Bouzigues"
+Thau18-P,43.41052,3.701841,NA,NA,NA,"Thau, Sète port",Guillaume Charrière,NA,NA,kasp_3bis,NA,NA,NA,NA,"Port of Sète, old ship hull, Quai Paul Riquet"
+Thau18-S,43.414772,3.687888,NA,NA,NA,"Thau, marine station",Guillaume Charrière,NA,NA,kasp_3bis,NA,NA,NA,NA,"Pontoon of the marine station, Pointe Longue"
 TRI_001,47.584917,-3.0248,NA,NA,NA,La Trinité sur mer - Port,JF Bouget,09/01/17,NucleoMag,kasp_3,NA,NA,NA,NA,"PORT DE LA TRINITE . Prélèvement ""100 familles""  fait en sortie du port de La Trinité port « propre » soumis  au jeux des marées malgrè la présence de nombreux voiliers  qu’il ne faut pas occulter. Prélèvement JF Bouget le 9/01/2017"
 VAR,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 VEY_001,49.383208,-1.094829,NA,NA,NA,Port en Besin /  Baie des Vey,Normand,02/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,moules de tailles normales couvertes de balannes  équipe port en Bessin
