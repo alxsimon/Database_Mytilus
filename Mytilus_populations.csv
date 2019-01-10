@@ -207,7 +207,7 @@ DO,45.851395,-60.803858,NA,CA,NA,"Bras d'Or Lake, Canada",Angel P. Diz,NA,Nucleo
 Dun,51.103133,2.421783,CHA,BE,NA,Dunkerque,Julien Normand / CRC Normandie,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 EB,NA,NA,NA,NA,NA,NA,Erika Burioli,NA,NucleoMag,kasp_3,NA,NA,NA,NA,NA
 EB-cultNeo,NA,NA,NA,NA,NA,Cancer cell culture,Erika Burioli,NA,NA,kasp_3bis,NA,NA,NA,NA,NA
-Edi,NA,NA,NOR,GB,EDINBG,Edinbourg,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
+Edi,55.981205,-3.195437,NOR,GB,EDINBG,Edinbourg,Christelle Fraïsse,2013,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Ena11,48.64035,-2.07507,CHA,FR,ST-ENO,"Saint-Enogat, Dinard",NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Engl,49.3947833,-0.9337666667,CHA,FR,ENGLES,Englesqueville,Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 ES,55.486617,8.404019,NOR,DK,ESBJER,Esbjerg,Lasse Fast Jensen,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
@@ -240,8 +240,8 @@ Gran,48.840033,-1.599468,CHA,FR,GRVILL,Granville,NA,2015,NucleoMag_tissue,kasp_1
 GrCa,49.4080333,-1.0363333333,CHA,FR,GRCAMP,Grancamp,Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 Groix,47.647013,-3.459113,ATL,FR,GROIX+,Groix,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
 HA,57.122231,8.637481,NOR,DK,HANSTO,Hanstholm,Lasse Fast Jensen,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-Ha1,NA,NA,NA,NA,NA,NA,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
-Ha3,NA,NA,NA,NA,NA,NA,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
+Ha1,NA,NA,NA,NA,NA,"fish market mussels, Sete (France) imported from Galicia (Spain)",NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
+Ha3,NA,NA,NA,NA,NA,"fish market mussels, Sete (France) imported from Galicia (Spain)",NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 HARW,51.9348,1.2813,NA,NA,NA,Harwich,Joop Coolen,15/11/15,NA,kasp_3,NA,NA,NA,NA,Pebble beach / Depth 0m
 Havre_A,49.48586,0.11327,CHA,FR,HAVREA,Le Havre,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Havre_B,49.47316,0.11612,CHA,FR,HAVREB,Le Havre,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
