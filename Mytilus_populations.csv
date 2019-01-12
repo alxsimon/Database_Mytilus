@@ -31,7 +31,7 @@ pop,lat,long,sea_code,iso_country,locality_code,locality,source,collection_date,
 27-Calais,50.974978,1.870983,NA,FR,CALA,"Calais, France",NA,NA,NA,beadxpress,NA,27,26,C,approximate coordinates
 28-Barfleur,49.670616,-1.263,NA,FR,BARFLR,"Barfleur, France",NA,NA,NA,beadxpress,NA,28,27,BAR,approximate coordinates
 29-Cherbourg,49.63,-1.622,NA,FR,CHER03,"Cherbourg, France",NA,NA,NA,beadxpress,NA,29,29,CHER,approximate coordinates
-30-Dinard,48.633,-2.05,NA,FR,DINNAR,"Dinard, France",NA,NA,NA,beadxpress,NA,30,30,DIN,approximate coordinates
+30-Dinard,48.633,-2.05,NA,FR,DINARD,"Dinard, France",NA,NA,NA,beadxpress,NA,30,30,DIN,approximate coordinates
 31-Roscoff,48.72,-3.98,NA,FR,ROSCOF,"Roscoff, France",NA,NA,NA,beadxpress,NA,31,31,Ros,approximate coordinates
 32-Guillec,48.687003,-4.071535,NA,FR,GUILLC,"Guillec, France",NA,NA,NA,ngs,NA,32,32,Gui,approximate coordinates
 33-Kerbihan,47.576883,-3.021033,NA,FR,KERBIH,"Kerbihan, France",NA,NA,NA,beadxpress,NA,33,33,BRET,approximate coordinates
@@ -201,7 +201,7 @@ Croa,45.071553,13.620913,MED,HR,CROATI,Croatia,Bojan Hamer,NA,NucleoMag_tissue,k
 D15A,54.3247,2.9346,NA,NA,NA,D15-A,Joop Coolen,03/10/15,NA,kasp_3,NA,NA,NA,NA,O&G platform / Depth 7m
 DAR,44.63521,-63.550052,NA,CA,NA,"Dartmouth, Canada",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 Dieppe,49.9355556,1.0967027778,CHA,FR,DIEPPE,Dieppe,Claire Daguin-Thiebaut,NA,NucleoMag_tissue,kasp_1 / kasp_3bis,NA,NA,NA,NA,NA
-Din,48.639134,-2.049374,CHA,FR,DINNAR,Dinnard,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
+Din,48.639134,-2.049374,CHA,FR,DINARD,Dinard,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
 DKL,23.72,-15.93,NA,NA,NA,"Dahkla, Morocco",NA,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
 DO,45.851395,-60.803858,NA,CA,NA,"Bras d'Or Lake, Canada",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 Dun,51.103133,2.421783,CHA,BE,NA,Dunkerque,Julien Normand / CRC Normandie,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
