@@ -88,9 +88,9 @@ BCG,NA,NA,NA,CROSS,BCG,Back-cross,Nicolas Bierne,NA,NucleoMag_tissue,kasp_1,NA,N
 BD,50.831278,-4.557036,NA,GB,NA,"Bude, SW England, UK",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 BDC,50.0906,1.422817,CHA,FR,BDCISE,Bois-de-Cise,Julien Normand / CRC Normandie,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Be,60.380691,5.334084,NWG,NO,NA,"Bergen, under the Bridge",Petr Strelkov,2015,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-BER,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+BER,50.429867,1.559517,NA,NA,NA,"Berck, France",Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 3, Q2 code 005-P-006"
 Berg,60.395604,5.305726,NOR,NO,BERGEN,Bergen,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
-BES,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+BES,49.351067,-0.753603,NA,NA,NA,"Port en Bessin, France",Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 10, Q2 code 013-P-001"
 BFH,41.260556,-72.462528,ATL,US,BRANHB,"Brandford, Harbor",Thesis Célia,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 BIA_001,43.467448,-1.576547,NA,NA,NA,Digue de Marbella Biarritz,Strobert / MORBLEU,14/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,prélèvement moules dans le cadre de 100 familles.  Moule caché dans l'enrochement de la digue. Quelle espèce Edulis et ou Gallo?? prélèvement le 14 décembre 2016.
 BIL_001,47.445281,-2.490151,NA,NA,NA,Le Bile - PENESTIN,Strobert / MORBLEU,11/01/17,NucleoMag,kasp_3,NA,NA,NA,NA,"POINTE DU BILE (Pénestin environement site Mytilobs Pont Mahé). On observes des moules d’un niveau 50 à un niveau 80 (coef de marée) avec un détail d’importance qui a également été observé sur le site du Pouliquen. Les moules situées au niveau supérieur sont les plus vieilles et les plus grosses ce sont celles qui ont été prélevées pour « 100 FAMILLES » elles sont couvertes de bernacles.  Au niveau inférieur 70-80 on n'observe plus de grosses moules mais seulement des petites -captage 2016- qui n’est pas bien gros DES MOULES DE CE NIVEAU ONT ETE PRELEVEES POUR ABDELLAH (caractérisation cytogénétique), ELLES SONT MELANGER AVEC LES AUTRES A TRIER. On observe sur ce sites de très nombreux perceurs Nucella lapilus qui peuvent impacter le site par leur prédation, mais pas faire disparaître les moules de plus de 2 ans.  Prélèvement Strobert le 11/01/2017."
@@ -169,7 +169,7 @@ BretN_i8,48.723045,-3.804249,CHA,FR,NA,"Roc'h Goalen, Plougasnou",Ismaël Bernar
 Brv,NA,NA,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,NA
 CAD,36.52719,-6.29842,ATL,ES,NA,"Cadix, Spain",Henrique Queiroga,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Can,43.412263,3.691843,MED,FR,CLSETE,canal de Sète,Nicolas Bierne,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
-CAP,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+CAP,43.65525,-1.4454,NA,NA,NA,Capbreton West,Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 30, Q2 code 089-P-007"
 Cart,49.37165,-1.8084166667,CHA,FR,CARTER,Carteret,Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 CB,50.33204,-4.744566,CHA,GB,NA,"Carlyon Bay, SW England, UK",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 CER_001,48.38265,-4.448869,NA,NA,NA,Port de Brest,Caisey / MORBLEU,14/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,Prélèvement par un  coefficient de marée de 104  Prélevent au niveau du port céréalier
@@ -177,7 +177,7 @@ CH,66.26998,33.07037,WHI,RU,NA,"Chupa, White Sea",Petr Strelkov,2015,NucleoMag_t
 Cha,46.032285,-1.08059,ATL,FR,NA,Charente,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,approximate coordinates
 CHA_OLE,45.050357,-1.41515,NA,NA,NA,Chassiron  pointe Nord Oléron,Robert / MORBLEU,03/10/16,NucleoMag,kasp_3,NA,NA,NA,NA,prélèvement de naissain seulement
 Chausey,48.884236,-1.806773,NA,NA,NA,"Chausey archipelago, Normandie",NA,NA,NA,kasp_3bis,NA,NA,NA,NA,"approximate coordinates, may be cultivated mussels"
-CHE,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+CHE,47.232317,-2.29965,NA,NA,NA,Pointe de Chemoulin,Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 29, Q2 code 069-P-025"
 CHE_001,49.645741,-1.623364,NA,NA,NA,port de Cherbourg,Julien Normand,02/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,très grosses moules port de plaisance de  Cherbourg équipe port en Bessin
 Cher-A,49.6453,-1.61953,NA,NA,NA,Cherbourg A,"Alexis, Nico et Alison",01/08/17,NucleoMag,kasp_3,NA,NA,NA,NA,Ponton limite W Port Chantereyne.
 Cher-B,49.64956,-1.61981,NA,NA,NA,Cherbourg B,"Alexis, Nico et Alison",01/08/17,NucleoMag,kasp_3,NA,NA,NA,NA,Bouée limite port militaire.
@@ -229,7 +229,7 @@ FIM,NA,NA,ATL,FR,NA,Charente,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 FINO,55.195,7.1583,NA,NA,NA,FINO 3,Joop Coolen,23/09/15,NA,kasp_3,NA,NA,NA,NA,Research platform / Depth 4m
 FIO_001,NA,NA,NA,NA,NA,Le Fiol,lot Abdellah,NA,NucleoMag,kasp_3,NA,NA,NA,NA,NA
 FR,57.458789,10.541081,NOR,DK,FREDER,Frederikshaun,Lasse Fast Jensen,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-FRE,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+FRE,48.645278,-2.297917,NA,NA,NA,Baie de la Fresnaye,Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 18, Q2 code 023-P-014"
 FWB_001,46.27151,-1.381558,NA,NA,NA,Filière Pertuis Breton,James / MORBLEU,30/11/16,NucleoMag,kasp_3,NA,NA,NA,NA,bouée filière ouest
 FZ,43.640907,-7.342928,NA,ES,NA,"Areoura-Foz, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 GA,62.46399,6.24164,NWG,NO,NA,"Gaseid, Alesund",Petr Strelkov,2015,NucleoMag_tissue,kasp_2 / kasp_3,NA,NA,NA,NA,NA
@@ -269,9 +269,9 @@ Jer,49.173083,-2.020383,CHA,JE,JERSEY,Jersey,Julien Normand / CRC Normandie,2016
 JH,NA,NA,NA,NA,NA,NA,Jerry Hilbish,NA,NA,kasp_3,NA,NA,NA,NA,NA
 JOS_001,48.558056,-2.600278,NA,NA,NA,Baie de St Brieuc /  Jospinet,strobert / MORBLEU,30/11/16,NucleoMag,kasp_3,NA,NA,NA,NA,les moules se trouvent sur les rochers  en bordure d'estran à un coeficient de 40-50. Les moules se trouvent au dessus de la zone de captage d'huîtes. Observation d'un capatge de moules 2016 (nouvelain) très important sur le site.
 JOS_002,48.558056,-2.600278,NA,NA,NA,Baie de St Brieuc /  Jospinet,strobert / MORBLEU,30/11/16,NucleoMag,kasp_3,NA,NA,NA,NA,les moules se trouvent sur les rochers  en bordure d'estran à un coeficient de 40-50. Les moules se trouvent au dessus de la zone de captage d'huîtes. Observation d'un capatge de moules 2016 (nouvelain) très important sur le site.
-JUM,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+JUM,47.833972,-3.900439,NA,NA,NA,La Jument,Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 23, Q2 code 049-P-014"
 K10B,53.3626,3.2539,NA,NA,NA,K10-B,Joop Coolen,01/10/14,NA,kasp_3,NA,NA,NA,NA,O&G platform / Depth 27m
-KER,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+KER,48.11565,-4.28515,NA,NA,NA,Kervel,Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 21, Q2 code 040-P-001"
 ker,NA,NA,NA,NA,NA,Kerguelen island,NA,NA,NucleoMag,kasp_3,NA,NA,NA,NA,NA
 KO,55.498497,9.626625,NOR,DK,KOLDIN,Kolding,Lasse Fast Jensen,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 KOR,34.833926,128.447074,NA,NA,NA,South Korea,Pierre Boudry,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
@@ -357,7 +357,7 @@ MgC,NA,NA,NA,GB,NA,putative Gallo from Croyde pop initially based on some morpho
 Mix,NA,NA,NA,NA,NA,NA,NA,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 MN,42.393865,-8.714087,ATL,ES,NA,"Marin, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 MOG_001,48.688292,-4.070776,NA,NA,NA,Moguéric (Aber),Luc Le Brun,18/11/16,NucleoMag,kasp_3,NA,NA,NA,NA,"Prélèvement par un  coefficient de marée de 94 Difficiles prélèvement en vrac,"
-MOU,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+MOU,47.842817,-4.041867,NA,NA,NA,"Pointe de Mousterlin, France",Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 22, Q2 code 043-P-014"
 MP,43.32606,-8.80175,ATL,ES,NA,"Malpica, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 MT,NA,NA,NA,NA,NA,NA,Michael Metzger,NA,NA,kasp_3,NA,NA,NA,NA,Pacific M. trossulus cancer
 MtrossCB,49.378056,-123.278889,NA,NA,NA,"Copper Beach, West Vancouver, British Columbia, Canada",Michael Metzger,NA,NA,kasp_3,NA,NA,NA,NA,Pacific M. trossulus cancer
@@ -391,11 +391,11 @@ Palice-B,46.15854,-1.218429,NA,NA,NA,"La Palice, lock",Jean-Francois Pepin,23/02
 PC,50.040025,-5.650185,NA,GB,NA,"Porthcurno, SW England, UK",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 PD,50.548028,-4.982802,NA,GB,NA,"Padstow, SW England, UK",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 Pech,69.235,58.941667,BAR,RU,NA,"Pechora Sea, Russia",Petr Strelkov,2013,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-PEN,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+PEN,47.306317,-2.513833,NA,NA,NA,Barres de Pen Bron,Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 25, Q2 code 062-P-022"
 PEN_001,47.497118,-2.493634,NA,NA,NA,Camaret plage-Penestin,Strobert / MORBLEU,11/01/17,NucleoMag,kasp_3,NA,NA,NA,NA,PLAGE DE CAMARET (Pénestin embouchure Vilaine)  En complément des moules de la pointe du Bile des moules ont été prélevées coté estuaire de la Vilaine. La mer montait et les rochers plutôt haut sur la plage n’ont pas permis de faire un constat semblable au site du Bile. Les moules prélevées sont couvertes de bernacles et se situent à un niveau coefficient 50. Les moules prélevées n’ont aucune tenue sur leur support. La fixation du byssus est quasi-inexistante : VOIR CONSTAT PRO SITE DU POULIGUEN. Prélèvement Strobert le 11/01/2017.Projet 100 Familles.
 Peniche,39.36844,-9.37944,ATL,PT,PENICH,"Peniche, Portugal",Henrique Queiroga,NA,NucleoMag_tissue,kasp_2 / kasp_3bis,NA,NA,NA,NA,NA
 PET_001,48.381188,-4.471461,NA,NA,NA,Port de Brest,Caisey / MORBLEU,14/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,Prélèvement par un  coefficient de marée de 104  Prélevent au niveau du port pétrolier
-PIR,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+PIR,49.182383,-1.616367,NA,NA,NA,"Pirou Nord, France",Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 14, Q2 code 018-P-038"
 Pir,49.165883,-1.600833,CHA,FR,PIROU+,Pirou,Julien Normand / CRC Normandie,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 PL,56.453742,-5.311939,INN,GB,NA,"Loch Etive, Scotland",Petr Strelkov,NA,NucleoMag_tissue,kasp_2 / kasp_3,NA,NA,NA,NA,NA
 Plg,NA,NA,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,NA
@@ -415,7 +415,7 @@ RB,43.554739,-7.157555,NA,ES,NA,"Catedrales-Ribadeo, Galicia, Spain",Angel P. Di
 Revi,49.5746667,-1.2293333333,CHA,FR,REVILL,Réville,Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 ROC_VER,45.983578,-1.405557,NA,NA,NA,Rocher Vert Chaucre cote ouest Oléron,Robert / MORBLEU,05/10/16,NucleoMag,kasp_3,NA,NA,NA,NA,prélèvement moules de taille moyenne pour l'espèce 113 adultes et qq naissain inférieur à 1cm
 RoRo,48.818656,-3.383141,CHA,FR,ROCROU,Roc-Rouge,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
-ROS,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+ROS,48.554028,-2.714689,NA,NA,NA,"Pointe du Roselier, France",Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 19, Q2 code 025-P-045"
 Roscanv,48.3146,-4.545065,NA,NA,NA,"Roscanvel, Bretagne",Erika Burioli,2018,NucleoMag_tissue,kasp_3bis,NA,NA,NA,NA,approximate coordinates
 Roth,48.687032,-1.962135,CHA,FR,ROTHEN,Rothéneuf,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 RS,42.548425,-8.878226,NA,ES,NA,"Arosa, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
@@ -430,7 +430,7 @@ SK,56.595208,9.043753,NOR,DK,SKIVE+,Skive,Lasse Fast Jensen,NA,NucleoMag_tissue,
 SL,NA,NA,NA,NA,NA,NA,Petr Strelkov,NA,NucleoMag,kasp_3,NA,NA,NA,NA,NA
 SoRo,48.732392,-1.552479,CHA,FR,SOLROC,Sol-Roc,NA,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 ST,42.793213,-9.022066,NA,ES,NA,"Esteiro-Muros, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
-St-MIC,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+St-MIC,48.689017,-3.58305,NA,NA,NA,Saint-Michel en grève,Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 20, Q2 code 032-P-028"
 StAnd,49.54744,0.0798,CHA,FR,ST-AND,"Saint-Andrieux, Normandie",NA,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 STBRI,48.543,-2.7122,NA,NA,NA,St Brieuc,Erika Burioli,NA,NucleoMag,kasp_3,NA,NA,NA,NA,Approximate coordinates
 StJo,49.643953,0.152643,CHA,FR,ST-JOU,Saint-Jouin,NA,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
@@ -456,13 +456,13 @@ Thau18-B,43.4343,3.664633,NA,NA,NA,"Thau, Bouzigues",Guillaume Charrière,NA,NA,
 Thau18-P,43.41052,3.701841,NA,NA,NA,"Thau, Sète port",Guillaume Charrière,NA,NA,kasp_3bis,NA,NA,NA,NA,"Port of Sète, old ship hull, Quai Paul Riquet"
 Thau18-S,43.414772,3.687888,NA,NA,NA,"Thau, marine station",Guillaume Charrière,NA,NA,kasp_3bis,NA,NA,NA,NA,"Pontoon of the marine station, Pointe Longue"
 TRI_001,47.584917,-3.0248,NA,NA,NA,La Trinité sur mer - Port,JF Bouget,09/01/17,NucleoMag,kasp_3,NA,NA,NA,NA,"PORT DE LA TRINITE . Prélèvement ""100 familles""  fait en sortie du port de La Trinité port « propre » soumis  au jeux des marées malgrè la présence de nombreux voiliers  qu’il ne faut pas occulter. Prélèvement JF Bouget le 9/01/2017"
-VAR,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+VAR,49.919733,0.985161,NA,NA,NA,"Varengeville, France",Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 5, Q2 code 008-P-013"
 VEY_001,49.383208,-1.094829,NA,NA,NA,Port en Besin /  Baie des Vey,Normand,02/12/16,NucleoMag,kasp_3,NA,NA,NA,NA,moules de tailles normales couvertes de balannes  équipe port en Bessin
 VG,42.225194,-8.773663,NA,ES,NA,"Vigo, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 VHO,37.38853,-8.82312,ATL,PT,NA,"Vale dos Homens, Aljezur, Spain",Henrique Queiroga,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 VIG,42.26008,-8.70214,ATL,ES,VIGO++,"Vigo, Spain",Henrique Queiroga,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Vill,49.399352,0.116054,CHA,FR,VILL15,Villerville,Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
-VILL,NA,NA,NA,NA,NA,NA,Jérome Couteau (Toxem),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+VILL,49.403744,0.123833,NA,NA,NA,Villerville,Jérome Couteau (Toxem) + Rossana Sussarellu,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,"ROCCH station 8, Q2 code 011-P-005"
 Vill16,49.40369,0.12351,CHA,FR,VILL16,"Villerville, Normandie",?,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 VLR,49.878117,0.79465,CHA,FR,VLROSE,Veules-les-Roses,Julien Normand / CRC Normandie,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 VV,43.689692,-7.598444,NA,ES,NA,"Viveiro, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
