@@ -154,18 +154,18 @@ Brest-6,48.307103,-4.572997,NA,NA,NA,"La Fraternité, France","Alexis, Alison",0
 Brest-7,48.296583,-4.554522,NA,NA,NA,"Quelern, France","Alexis, Alison",09/07/17,NucleoMag_tissue,kasp_3,NA,NA,NA,NA,"slipway, moules sur des blocs rocheux et muret à la sortie d'un étang, taille moyenne"
 Brest-8,48.339737,-4.532071,NA,NA,NA,"Pointe des Espagnols, France","Alexis, Alison",09/07/17,NucleoMag_tissue,kasp_3,NA,NA,NA,NA,"moules uniquement sur les piliers, taille grosse / juvéniles présents / 01 = juvénile, reste = grosses"
 Brest-9,48.318344,-4.582539,NA,NA,NA,"Îlot des Capucins, France","Alexis, Alison",09/07/17,NucleoMag_tissue,kasp_3,NA,NA,NA,NA,"moules sur des blocs rocheux, abondantes, taille petite. Pouces pieds présents en nombre important."
-BretN_g1,48.700138,-3.71707,CHA,FR,NA,"venizella, Guimaec, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,près de Beg an Fry
-BretN_g2,48.689997,-3.698187,CHA,FR,NA,"poul roudou, Locquirec, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-BretN_g3,48.687957,-3.676901,CHA,FR,NA,"lezingar, Locquirec, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-BretN_g4,48.694813,-3.646431,CHA,FR,NA,"pors ar villiec, Locquirec",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-BretN_i1,48.728634,-3.546384,CHA,FR,NA,"Léguer estuary, South point, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-BretN_i2,48.728948,-3.542295,CHA,FR,NA,"Banc du Guer sud, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-BretN_i3,48.721388,-3.581562,CHA,FR,NA,"Locquémo, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,Coopérative maritime
-BretN_i4,48.726078,-3.583713,CHA,FR,NA,"Locquemo, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,Pointe du port
-BretN_i5q1,48.688861,-3.582827,CHA,FR,NA,"Beg ar form, Saint-Michel en Grève, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-BretN_i5q2,48.689137,-3.582707,CHA,FR,NA,"Beg ar form, Saint-Michel en Grève, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-BretN_i6,48.685065,-3.617125,CHA,FR,NA,"Beg Douar, Plestin Les Grèves, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-BretN_i8,48.723045,-3.804249,CHA,FR,NA,"Roc'h Goalen, Plougasnou, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+BretN_g1,48.700138,-3.71707,CHA,FR,NA,"venizella, Guimaec, France",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,près de Beg an Fry
+BretN_g2,48.689997,-3.698187,CHA,FR,NA,"poul roudou, Locquirec, France",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+BretN_g3,48.687957,-3.676901,CHA,FR,NA,"lezingar, Locquirec, France",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+BretN_g4,48.694813,-3.646431,CHA,FR,NA,"pors ar villiec, Locquirec",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+BretN_i1,48.728634,-3.546384,CHA,FR,NA,"Léguer estuary, South point, France",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+BretN_i2,48.728948,-3.542295,CHA,FR,NA,"Banc du Guer sud, France",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+BretN_i3,48.721388,-3.581562,CHA,FR,NA,"Locquémo, France",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,Coopérative maritime
+BretN_i4,48.726078,-3.583713,CHA,FR,NA,"Locquemo, France",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,Pointe du port
+BretN_i5q1,48.688861,-3.582827,CHA,FR,NA,"Beg ar form, Saint-Michel en Grève, France",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+BretN_i5q2,48.689137,-3.582707,CHA,FR,NA,"Beg ar form, Saint-Michel en Grève, France",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+BretN_i6,48.685065,-3.617125,CHA,FR,NA,"Beg Douar, Plestin Les Grèves, France",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+BretN_i8,48.723045,-3.804249,CHA,FR,NA,"Roc'h Goalen, Plougasnou, France",Ismaël Bernard (Eureka),24/05/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Brv,NA,NA,NA,NA,NA,NA,Abdellah,NA,NA,kasp_3,NA,NA,NA,NA,NA
 CAD,36.52719,-6.29842,ATL,ES,NA,"Cadix, Spain",Henrique Queiroga,2016,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Can,43.412263,3.691843,MED,FR,CLSETE,"Sète, canal, France",Nicolas Bierne,NA,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
@@ -405,11 +405,11 @@ PtArm97,48.325627,-4.453547,NA,NA,NA,"Pointe de l'Armorique, plage des ducs d’
 Q13A,52.1911,4.1361,NA,NA,NA,"Q13-A, North Sea",Joop Coolen,28/05/14,NA,kasp_3,NA,NA,NA,NA,O&G platform / Depth 0 to 7m
 QAS,77.465,-69.2403,NA,GL,QAANAA,"Qaanaaq, Greenland",Einar Eg Nielsen (Mathiesen et al. 2016),2014,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 QUI_001,47.54575,-3.067167,NA,NA,NA,"Baie de Quiberon - bouée, France",JF Bouget / MORBLEU,08/01/17,NucleoMag_tissue,kasp_3,NA,NA,NA,NA,Bouée QUIBERON en baie de Quiberon.  Prélèvement de moule sur une bouée située dans la baie. Récupération des moules à l’aide d’un rateau. Prélèvement JF Bouget le 8/01/2017.
-RadeBrest_R1,48.390145,-4.399726,ATL,FR,P-IROI,"Pont d'Iroise, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-RadeBrest_R2,48.338097,-4.36882,ATL,FR,TINDUF,"Port du Tinduff, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-RadeBrest_R3,48.286791,-4.506798,ATL,FR,LEFRET,"Le Fret, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-RadeBrest_R4,48.306091,-4.550829,ATL,FR,QUELER,"Quélern, Roscanvel, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
-RadeBrest_R5,48.281993,-4.571943,ATL,FR,ST-BAR,"Pte Ste Barbe, Camaret, France",Ismaël Bernard (Eureka),NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+RadeBrest_R1,48.390145,-4.399726,ATL,FR,P-IROI,"Pont d'Iroise, France",Ismaël Bernard (Eureka),20/07/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+RadeBrest_R2,48.338097,-4.36882,ATL,FR,TINDUF,"Port du Tinduff, France",Ismaël Bernard (Eureka),20/07/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+RadeBrest_R3,48.286791,-4.506798,ATL,FR,LEFRET,"Le Fret, France",Ismaël Bernard (Eureka),20/07/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+RadeBrest_R4,48.306091,-4.550829,ATL,FR,QUELER,"Quélern, Roscanvel, France",Ismaël Bernard (Eureka),20/07/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
+RadeBrest_R5,48.281993,-4.571943,ATL,FR,ST-BAR,"Pte Ste Barbe, Camaret, France",Ismaël Bernard (Eureka),20/07/16,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,NA
 Rave,49.4733333,-1.2102333333,CHA,FR,RAVENO,"Ravenoville, France",Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
 RB,43.554739,-7.157555,NA,ES,NA,"Catedrales-Ribadeo, Galicia, Spain",Angel P. Diz,NA,NucleoMag_tissue,kasp_2,NA,NA,NA,NA,approximate coordinates
 Revi,49.5746667,-1.2293333333,CHA,FR,REVILL,"Réville, France",Julien Normand / CRC Normandie,2015,NucleoMag_tissue,kasp_1,NA,NA,NA,NA,NA
