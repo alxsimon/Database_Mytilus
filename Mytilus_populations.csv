@@ -27,7 +27,7 @@ pop,lat,long,sea_code,iso_country,locality_code,locality,source,collection_date,
 23-Edinburgh,55.95,-3.18,,GB,EDIN,"Edinburgh, Scotland, UK",,,,beadxpress,,23,23,Ed,approximate coordinates
 24-Aberdeen,57.14,-2.094,,GB,ABER,"Aberdeen, Scotland, UK",,,,beadxpress,,24,24,Ab,approximate coordinates
 25-Kenmare,51.88,-9.583,,IE,KENM,"Kenmare, Ireland",,,,beadxpress,,25,28,Ken,approximate coordinates
-26-Hollande,53.31,5.424,,NL,WADS,"Wadden Sea, The Netherlands",,2009,,ngs,,26,25,Nor,approximate coordinates
+26-Wadden-sea,53.31,5.424,,NL,WADS,"Wadden Sea, The Netherlands",,2009,,ngs,,26,25,Nor,approximate coordinates
 27-Calais,50.974978,1.870983,,FR,CALA,"Calais, France",,,,beadxpress,,27,26,C,approximate coordinates
 28-Barfleur,49.670616,-1.263,,FR,BARFLR,"Barfleur, France",,,,beadxpress,,28,27,BAR,approximate coordinates
 29-Cherbourg,49.63942,-1.61994,,FR,CHER03,"Cherbourg, France",,,,beadxpress,,29,29,CHER,approximate coordinates
